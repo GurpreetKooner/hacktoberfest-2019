@@ -333,4 +333,8 @@
 - Place: Hamburg, Germany
 - Bio: Scienctist, developer
 - GitHub: [andreas-ra](https://github.com/andreas-ra)
+#### Name: [Gurpreet](https://github.com/GurpreetKooner)
+- Place: Delhi, India
+- Bio: Student, developer
+- GitHub: [GurpreetKooner](https://github.com/GurpreetKooner)
 
